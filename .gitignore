@@ -1,5 +1,12 @@
+.DS_Store
+
 *.jpg
+*.png
 *.jpeg
 *.mp4
+*.avi
+*.zip
+
 opencv/
 .ipynb_checkpoints/
+malgun-gothic/
