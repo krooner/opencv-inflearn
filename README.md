@@ -21,13 +21,17 @@ $ source <pwd>/<your_venv_name>/bin/activate
 (opencv-inflearn) $ jupyter lab
 ```
 
-### Install OpenCV (and Libraries if needed)
+### Install Necessary Libraries
+
+- `opencv-python`: OpenCV for python
+- `pillow`: PIL (Python Image Library) for python3
+- `mediapipe`: On-device ML Library for face detection (and additional features)
 
 ```zsh
-(opencv-inflearn) $ pip install opencv-python pillow
+(opencv-inflearn) $ pip install opencv-python pillow mediapipe
 ```
 
-### Install Hangul Font (if needed)
+### Install Hangul Font
 
 ```zsh
 $ curl https://www.wfonts.com/download/data/2016/06/13/malgun-gothic/malgun-gothic.zip --output malgun-gothic.zip
