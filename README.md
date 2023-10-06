@@ -1,4 +1,4 @@
-# opencv-inflearn
+# opencv_inflearn
 MacOS 
 
 ## Course Info
